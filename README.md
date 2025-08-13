@@ -13,7 +13,7 @@
 ---
 
 ### 🔗 Connect with Me
-[LinkedIn](https://linkedin.com/in/tejasv-singh) • [GitHub](https://github.com/TejasvSingh) • [Email](mailto:tejasvsingh98@gmail.com) • [IEEE Publication](https://ieeexplore.ieee.org/document/11029295)
+[GitHub](https://github.com/TejasvSingh) • [Email](mailto:tejasvsingh98@gmail.com) • [IEEE Publication](https://ieeexplore.ieee.org/document/11029295)
 
 ---
 
